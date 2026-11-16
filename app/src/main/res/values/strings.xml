@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PSX Nova</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_system">BIOS y MemCard</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="action_load_rom">Cargar .ISO / .BIN</string>
+    <string name="action_scan_folder">Escanear carpeta</string>
+    <string name="empty_library_title">Tu consola PS1 está lista</string>
+    <string name="empty_library_subtitle">Carga cualquier juego compatible en formato .iso, .bin, .img, .cue o ejecutables PS-X. Incluye BIOS HLE integrada para jugar al instante.</string>
+</resources>

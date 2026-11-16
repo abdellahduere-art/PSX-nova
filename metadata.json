@@ -1,0 +1,6 @@
+{
+  "name": "PSX Nova",
+  "description": "Emulador de PlayStation 1 para Android compatible con archivos .iso y .bin, BIOS HLE y externa, gráficos GTE/GPU, audio SPU, Memory Cards y estados guardados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
